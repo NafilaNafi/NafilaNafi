@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nafi
 - 👀 I’m interested in MERNSTACK DEVELOPMENT
 - 🌱 I’m currently learning REACT & UPDATING WITH NEW TECHNOLOGIES
-- 💞️ I’m would like to collaborate on interesting freelance projects
+- 💞️ I would like to collaborate on interesting freelance projects
 - 📫 Reach me on nafila@outlook.com / +919597035866
 
 <!---
